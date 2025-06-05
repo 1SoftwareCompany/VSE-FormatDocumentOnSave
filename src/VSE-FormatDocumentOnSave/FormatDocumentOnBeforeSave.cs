@@ -1,13 +1,12 @@
 ﻿using System;
 using System.Linq;
-using System.Threading.Tasks;
 using EnvDTE;
 using EnvDTE80;
 using Microsoft.VisualStudio;
 using Microsoft.VisualStudio.Shell;
 using Microsoft.VisualStudio.Shell.Interop;
 
-namespace Elders.VSE_FormatDocumentOnSave
+namespace VSE_FormatDocumentOnSave
 {
     internal class FormatDocumentOnBeforeSave : IVsRunningDocTableEvents3
     {

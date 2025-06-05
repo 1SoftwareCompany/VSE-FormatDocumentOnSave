@@ -3,7 +3,7 @@ using EnvDTE;
 using EnvDTE80;
 using Microsoft.VisualStudio.Shell;
 
-namespace Elders.VSE_FormatDocumentOnSave
+namespace VSE_FormatDocumentOnSave
 {
     public class VisualStudioCommandFormatter : IDocumentFormatter
     {

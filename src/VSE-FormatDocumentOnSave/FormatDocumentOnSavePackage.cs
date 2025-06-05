@@ -1,7 +1,6 @@
-﻿using Elders.VSE_FormatDocumentOnSave.Configurations;
+﻿using VSE_FormatDocumentOnSave.Configurations;
 using EnvDTE;
 using EnvDTE80;
-using Microsoft.Extensions.DependencyInjection;
 using Microsoft.VisualStudio;
 using Microsoft.VisualStudio.Shell;
 using Microsoft.VisualStudio.Shell.Interop;
@@ -10,7 +9,7 @@ using System.ComponentModel.Composition;
 using System.Runtime.InteropServices;
 using System.Threading.Tasks;
 
-namespace Elders.VSE_FormatDocumentOnSave
+namespace VSE_FormatDocumentOnSave
 {
     /// <summary>
     /// This is the class that implements the package exposed by this assembly.

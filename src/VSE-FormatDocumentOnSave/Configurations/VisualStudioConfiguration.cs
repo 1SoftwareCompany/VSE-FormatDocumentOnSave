@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 
-namespace Elders.VSE_FormatDocumentOnSave.Configurations
+namespace VSE_FormatDocumentOnSave.Configurations
 {
     public class VisualStudioConfiguration : DialogPage, IConfiguration
     {

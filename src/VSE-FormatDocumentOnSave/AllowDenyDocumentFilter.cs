@@ -5,7 +5,7 @@ using System.Linq;
 using EnvDTE;
 using Microsoft.VisualStudio.Shell;
 
-namespace Elders.VSE_FormatDocumentOnSave
+namespace VSE_FormatDocumentOnSave
 {
 
     public class AllowDenyDocumentFilter : IDocumentFilter

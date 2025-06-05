@@ -2,7 +2,7 @@
 using System.Runtime.InteropServices;
 using System.Windows.Forms;
 
-namespace Elders.VSE_FormatDocumentOnSave
+namespace VSE_FormatDocumentOnSave
 {
     abstract class WindowHook
     {

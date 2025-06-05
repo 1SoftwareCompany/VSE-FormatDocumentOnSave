@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Elders.VSE_FormatDocumentOnSave {
+namespace VSE_FormatDocumentOnSave {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace Elders.VSE_FormatDocumentOnSave {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Elders.VSE_FormatDocumentOnSave.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("VSE_FormatDocumentOnSave.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

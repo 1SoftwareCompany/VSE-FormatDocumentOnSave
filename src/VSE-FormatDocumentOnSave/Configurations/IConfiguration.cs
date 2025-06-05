@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Elders.VSE_FormatDocumentOnSave.Configurations
+namespace VSE_FormatDocumentOnSave.Configurations
 {
     public interface IConfiguration
     {

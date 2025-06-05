@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Elders.VSE_FormatDocumentOnSave
+namespace VSE_FormatDocumentOnSave
 {
     public class VisualStudioCommand
     {

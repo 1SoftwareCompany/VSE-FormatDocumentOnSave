@@ -1,10 +1,10 @@
 using System;
-using Elders.VSE_FormatDocumentOnSave.Configurations;
+using VSE_FormatDocumentOnSave.Configurations;
 using EnvDTE;
 using EnvDTE80;
 using Microsoft.VisualStudio.Shell;
 
-namespace Elders.VSE_FormatDocumentOnSave
+namespace VSE_FormatDocumentOnSave
 {
     public class DocumentFormatService
     {

@@ -1,6 +1,6 @@
 ﻿using EnvDTE;
 
-namespace Elders.VSE_FormatDocumentOnSave
+namespace VSE_FormatDocumentOnSave
 {
     public interface IDocumentFilter
     {
