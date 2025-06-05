@@ -1,3 +1,10 @@
+# v4.1
+* Roll back packages because Microsoft broke that again...
+
+# v4.0
+* Move the extension to 1Software org
+* Updates packages
+
 # v3.11
 * Updates nuget packages
 * This version is tested and working with Microsoft Visual Studio Community 2022 (64-bit) Version 17.9.4
